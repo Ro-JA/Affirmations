@@ -1,3 +1,4 @@
+<!-- Создали строковые ресурсы которые будем отображать в нашем списке-->
 <resources>
     <string name="app_name">Affirmations</string>
     <string name="affirmation1">I am strong.</string>

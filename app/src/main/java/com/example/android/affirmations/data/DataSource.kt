@@ -2,6 +2,8 @@ package com.example.android.affirmations.data
 
 import com.example.android.affirmations.R
 import com.example.android.affirmations.model.Affirmation
+//создали класс каторый преобразует информацию в список для отображения ее внашем списке(важно
+//делать такие классы отдельно)
 
 class Datasource {
 
