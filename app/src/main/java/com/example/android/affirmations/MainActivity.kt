@@ -3,6 +3,7 @@ package com.example.android.affirmations
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
+import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.android.affirmations.adapter.ItemAdapter
 import com.example.android.affirmations.data.Datasource
